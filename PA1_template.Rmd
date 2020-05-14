@@ -1,5 +1,9 @@
-Reproducible Research Week 2 Course Project 
-=============================================
+---
+title: "Reproducible Research: Peer Assessment 1"
+output: 
+  html_document:
+    keep_md: true
+---
 ## By YT  
 ### 1. Load and preprocess the data
 
