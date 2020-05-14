@@ -1,10 +1,9 @@
 ---
+title: "Reproducible Research: Peer Assessment 1"
 output: 
-  html_document: 
-    keep_md: yes
+  html_document:
+    keep_md: true
 ---
-Reproducible Research Week 2 Course Project 
-=============================================
 ## By YT  
 ### 1. Load and preprocess the data
 
