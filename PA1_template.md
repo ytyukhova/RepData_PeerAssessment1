@@ -4,7 +4,7 @@ output:
   html_document:
     keep_md: true
 ---
-## By YT  
+## By YT (May 14, 2020)
 ### 1. Load and preprocess the data
 
 The following code reads the data from the current working directory.
@@ -122,7 +122,7 @@ totalsteps
 
 ```r
 ## Histogram of the total number of steps taken each day
-hist(totalsteps$steps,col="rosybrown3",xlab="Total Steps per Day",main="Histogram",breaks=35)
+hist(totalsteps$steps,col="rosybrown3",xlab="Total Steps per Day",main="Histogram",breaks=35) 
 ```
 
 ![](PA1_template_files/figure-html/hist1-1.png)<!-- -->
